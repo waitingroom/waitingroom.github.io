@@ -94,31 +94,44 @@ a {
 
 @font-face {
     font-family: 'nimbus_sans_lbolditalic';
-    src: url('fonts/nimbus_sans_lbolditalic.ttf') format('ttf'),
+    src: url('fonts/nimbus-sans-l_bold-italic-webfont.woff2') format('woff2'),
+         url('fonts/nimbus-sans-l_bold-italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+
+
+
 
 @font-face {
     font-family: 'nimbus_sans_lbold';
-    src: url('fonts/nimbus_sans_lbold.ttf') format('ttf'),
+    src: url('fonts/nimbus-sans-l_bold-webfont.woff2') format('woff2'),
+         url('fonts/nimbus-sans-l_bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+
+
+
+
 @font-face {
     font-family: 'nimbus_sans_lreguital';
-    src: url('fonts/nimbus_sans_lreguital.ttf') format('ttf'),
+    src: url('fonts/nimbus-sans-l_italic-webfont.woff2') format('woff2'),
+         url('fonts/nimbus-sans-l_italic-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
 }
+
+
 
 
 @font-face {
     font-family: 'nimbus_sans_lregular';
-    src: url('fonts/nimbus_sans_lregular.ttf') format('ttf'),
+    src: url('fonts/nimbus-sans-l_regular-webfont.woff2') format('woff2'),
+         url('fonts/nimbus-sans-l_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
