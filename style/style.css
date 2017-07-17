@@ -130,8 +130,8 @@ a {
 
 @font-face {
     font-family: 'nimbus_sans_lregular';
-    src: url('fonts/nimbus-sans-l_regular-webfont.woff2') format('woff2'),
-         url('fonts/nimbus-sans-l_regular-webfont.woff') format('woff');
+    src: url('/fonts/nimbus-sans-l_regular-webfont.woff2') format('woff2'),
+         url('/fonts/nimbus-sans-l_regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
