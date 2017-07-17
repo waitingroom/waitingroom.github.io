@@ -29,7 +29,7 @@ a {
   width: 500px;
   float: left;
   font-size: 2.37vw;
-  font-family: Helvetica,Arial,sans-serif;
+  font-family: "nimbus-sans";
   letter-spacing: 0.3vw;
   color: black;
   right: 54%;
@@ -44,7 +44,7 @@ a {
     width: 500px;
     float: left;
     font-size: 2vw;
-    font-family: Helvetica,Arial,sans-serif;
+    font-family: "nimbus-sans";
     letter-spacing: 0.1vw;
     right: 66%;
     margin-bottom: 5%;
@@ -75,7 +75,7 @@ a {
     color: black;
     text-transform: uppercase;
     font-size: 12vw;
-    font-family: Helvetica,Arial,sans-serif;
+    font-family: "nimbus-sans";
     line-height: 100%;
 }
 
@@ -89,50 +89,4 @@ a {
 @media screen and (max-height: 450px) {
     .sidenav {padding-top: 15px;}
     .sidenav a {font-size: 18px;}
-}
-
-
-@font-face {
-    font-family: 'nimbus_sans_lbolditalic';
-    src: url('fonts/nimbus-sans-l_bold-italic-webfont.woff2') format('woff2'),
-         url('fonts/nimbus-sans-l_bold-italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'nimbus_sans_lbold';
-    src: url('fonts/nimbus-sans-l_bold-webfont.woff2') format('woff2'),
-         url('fonts/nimbus-sans-l_bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'nimbus_sans_lreguital';
-    src: url('fonts/nimbus-sans-l_italic-webfont.woff2') format('woff2'),
-         url('fonts/nimbus-sans-l_italic-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-
-
-@font-face {
-    font-family: 'nimbus_sans_lregular';
-    src: url('/fonts/nimbus-sans-l_regular-webfont.woff2') format('woff2'),
-         url('/fonts/nimbus-sans-l_regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
 }
