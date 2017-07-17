@@ -13,7 +13,7 @@ body {
   width: 100%;
   text-transform: uppercase;
   font-size: 12vw;
-  font-family: "nimbus_sans_lregular";
+  font-family: 'nimbus_sans_lregular';
   letter-spacing: 0.5vw;
   z-index: 2;
 }
