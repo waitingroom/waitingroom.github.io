@@ -15,7 +15,8 @@ body {
   z-index: 50;
   color: white;
   background-color: black;
-  transition: 3s;
+  transition: opacity 5s ease-in-out;
+  opacity: 1;
 
 }
 .site-title {
