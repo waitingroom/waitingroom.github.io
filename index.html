@@ -1,6 +1,41 @@
-<html>
-<header><title>This is title</title></header>
+<!DOCTYPE html>
+<title>Waiting Room</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta property="og:url" content="https://racheldejoode.com">
+<meta property="og:image" content="https://racheldejoode.com/thumbs/og_image-1200x665.jpg">
+<link rel="stylesheet" href="style/style.css">
+<script src="style/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="https://racheldejoode.com/assets/js/vendor/jquery.min.js">\x3C/script>')</script>
+
 <body>
-Hello world
+		<div id="main">
+			<div id="mySidenav" class="sidenav">
+			  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">→</a>
+				<div class="about">
+				ARCHIVE
+				</div>
+			</div>
+
+			<div class="site-title">
+				<span onclick="openNav()"><a href="#">waiting room</a></span>
+			</div>
+		</div>
 </body>
+
+<script>
+	/* Set the width of the side navigation to 250px and the left margin of the page content to 250px */
+	function openNav() {
+		document.getElementById("mySidenav").style.width = "100%";
+		document.getElementById("main").style.marginLeft = "100%";
+	}
+
+	/* Set the width of the side navigation to 0 and the left margin of the page content to 0 */
+	function closeNav() {
+		document.getElementById("mySidenav").style.width = "0%";
+		document.getElementById("main").style.marginLeft = "0%";
+
+
+	}
+</script>
 </html>
