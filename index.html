@@ -13,7 +13,7 @@
 
 
 <body>
-<div class="hidden">
+<div id="hidden">
 	every tuesday
 </div>
 		<div id="main">
@@ -46,9 +46,8 @@
 	}
 </script>
 <script>
-$(document).ready(function () {
-    $('div.hidden').fadeOut(1000);
-});
+$(document).ready(function(){
+    $("div#hidden").fadeOut();
 });
 </script>
 </html>
