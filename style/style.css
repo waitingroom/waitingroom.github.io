@@ -74,9 +74,10 @@ a {
     right: 0.5%;
     color: black;
     text-transform: uppercase;
-    font-size: 12vw;
+    font-size: 13vw;
     font-family: "nimbus-sans";
     line-height: 100%;
+    line-height: 1.3;
 }
 
 
