@@ -5,9 +5,9 @@ body {
   overflow-x: hidden;
 }
 
-.hidden {
+#hidden {
   text-align: center;
-  position: absolute;
+  position: fixed;
   width: 100%;
   font-size: 13vw;
   font-family: "nimbus-sans";
@@ -15,7 +15,10 @@ body {
   z-index: 50;
   color: white;
   background-color: black;
-
+  text-transform: uppercase;
+  left:0;
+  top:0;
+  height: 100%
 }
 .site-title {
   border: 0;
