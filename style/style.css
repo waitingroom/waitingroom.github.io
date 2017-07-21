@@ -21,14 +21,6 @@ body {
   height: 100%
 }
 
-.divisor {
-  margin-top: 10%
-  width: 50%;
-  margin-left: 50%;
-  border-left: 1% #000 solid;
-  margin-bottom: 10%;
-
-}
 .site-title {
   text-decoration: none;
   text-align: center;
