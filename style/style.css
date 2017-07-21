@@ -3,7 +3,6 @@ header {
 
 body {
   overflow-x: hidden;
-  background-color: rgb(255, 207, 185);
 }
 
 #hidden {
@@ -78,7 +77,7 @@ a {
     z-index: 10; /* Stay on top */
     top: 0;
     left: 0;
-    background-color: #dfdbd1; /* Black*/
+    background-color: #dbc1bd; /* Black*/
     overflow-x: hidden; /* Disable horizontal scroll */
     padding-top: 2%; /* Place content 60px from the top */
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidenav */
