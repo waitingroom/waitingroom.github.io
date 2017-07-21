@@ -3,6 +3,7 @@ header {
 
 body {
   overflow-x: hidden;
+  background-color: rgb(255, 207, 185);
 }
 
 #hidden {
