@@ -5,49 +5,7 @@
   font-weight: normal;
   font-style: normal; }
 /* normalize.css 2012-07-07T09:50 UTC - http://github.com/necolas/normalize.css */
-/* ==========================================================================
-   HTML5 display definitions
-   ========================================================================== */
-/**
- * Correct `block` display not defined in IE 8/9.
- */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-main,
-nav,
-section,
-summary {
-  display: block; }
 
-/**
- * Correct `inline-block` display not defined in IE 8/9.
- */
-audio,
-canvas,
-video {
-  display: inline-block; }
-
-/**
- * Prevent modern browsers from displaying `audio` without controls.
- * Remove excess height in iOS 5 devices.
- */
-audio:not([controls]) {
-  display: none;
-  height: 0; }
-
-/**
- * Address `[hidden]` styling not present in IE 8/9.
- * Hide the `template` element in IE, Safari, and Firefox < 22.
- */
-[hidden],
-template {
-  display: none; }
 
 /* ==========================================================================
    Base
@@ -102,9 +60,6 @@ a:hover {
  * Address variable `h1` font-size and margin within `section` and `article`
  * contexts in Firefox 4+, Safari 5, and Chrome.
  */
-h1 {
-  font-size: 2em;
-  margin: 0.67em 0; }
 
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
@@ -1097,30 +1052,6 @@ a, a:visited {
 a:focus {
   outline: none; }
 
-/******************************************************************
-H1, H2, H3, H4, H5 STYLES
-******************************************************************/
-h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5 {
-  text-transform: uppercase;
-  text-rendering: optimizelegibility;
-  font-weight: 500;
-  /*
-  if you're going to use webfonts, be sure to check your weights
-  http://css-tricks.com/watch-your-font-weight/
-  */
-  /* removing text decoration from all headline links */ }
-  h1 a, .h1 a, h2 a, .h2 a, h3 a, .h3 a, h4 a, .h4 a, h5 a, .h5 a {
-    text-decoration: none; }
-
-h1, .h1 {
-  font-size: 1em;
-  line-height: 1em;
-  padding-top: 0.8em;
-  padding-bottom: 0.8em;
-  margin-bottom: 0.8em !important;
-  border-top: 0.1em #000 solid;
-  border-bottom: 0.1em #000 solid; }
-
 h2, .h2 {
   font-size: 1em;
   line-height: 1em;
@@ -2080,7 +2011,8 @@ you can add resource intensive styles.
     .project .project-informations {
       width: 50%;
       margin-left: 50%;
-      border-left: 0.1em #000 solid; }
+      border-left: 0.1em #000 solid
+     }
       .project .project-informations hr:first-child {
         display: block; }
       .project .project-informations .h2 {
@@ -2227,24 +2159,7 @@ be set to display none.
   a, a:visited {
     color: #444 !important;
     text-decoration: underline; }
-    a:after, a:visited:after {
-      content: " (" attr(href) ")"; }
-    a abbr[title]:after, a:visited abbr[title]:after {
-      content: " (" attr(title) ")"; }
-
-  .ir a:after,
-  a[href^="javascript:"]:after,
-  a[href^="#"]:after {
-    content: ""; }
-
-  pre, blockquote {
-    border: 1px solid #999;
-    page-break-inside: avoid; }
-
-  thead {
-    display: table-header-group; }
-
-  tr, img {
+     
     page-break-inside: avoid; }
 
   img {
