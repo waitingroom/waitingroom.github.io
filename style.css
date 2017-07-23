@@ -1023,10 +1023,11 @@ a {
 HEADER STYLES
 *********************/
 .logo {
-    width: 15%;
+    width: 20%;
     position: fixed;
     z-index: 2;
     padding: 4%;
+    white-space: nowrap;
 }
 /*********************
 NAVIGATION STYLES
