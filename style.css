@@ -955,7 +955,7 @@ body {
 }
 /* The navigation bar */
 
-.header {
+#header {
     overflow: hidden;
     background-color: #f89d80;
     position: fixed; /* Set the navbar to fixed position */
@@ -967,7 +967,7 @@ body {
 
 
 /* Links inside the navbar */
-.header a {
+#header a {
     float: left;
     display: block;
     color: #f2f2f2;
