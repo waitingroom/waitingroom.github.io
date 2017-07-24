@@ -1113,19 +1113,7 @@ POSTS & CONTENT STYLES
 #content {
   margin-top: 1.3em; }
 
-.hentry {
-  background-color: #fff;
-  border-radius: 3px;
-  margin-bottom: 1.5em;
-  border: 1px solid #000; }
-  .hentry header {
-    border-bottom: 1px solid #f8f9fa;
-    padding: 1.5em; }
-  .hentry footer {
-    padding: 1.5em;
-    border-top: 1px solid #f8f9fa; }
-    .hentry footer p {
-      margin: 0; }
+
 
 /* end .hentry */
 .single-title,
@@ -1627,6 +1615,7 @@ hr {
   height: 2.3em;
   overflow: hidden;
   border-bottom: 0.1em solid #000; }
+  
   #header-text #inner-header-text {
     position: absolute;
     font-size: 1em;
