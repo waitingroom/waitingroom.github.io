@@ -1615,7 +1615,7 @@ hr {
   height: 2.3em;
   overflow: hidden;
   border-bottom: 0.1em solid #000; }
-  
+
   #header-text #inner-header-text {
     position: absolute;
     font-size: 1em;
@@ -1982,7 +1982,6 @@ you can add resource intensive styles.
     .project .project-informations {
       width: 50%;
       margin-left: 50%;
-      border-left: 0.1em #000 solid
      }
       .project .project-informations hr:first-child {
         display: block; }
@@ -2017,7 +2016,7 @@ you can add resource intensive styles.
   .content-column.last_column {
     padding-right: 0px;
     padding-left: 0.8em;
-    border-left: 0.1em #000 solid; }
+   }
 
   #content {
     margin-bottom: 0.8em; } }
