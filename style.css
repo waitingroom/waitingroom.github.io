@@ -912,10 +912,13 @@ body {
   font-size: 100%;
   line-height: 1.5;
   color: #000000;
-  background-color: #eaedf2;
+  background-color: #fdfdfd;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 20px; }
+  font-size: 20px;
+  -webkit-transition: background-color 0.24s ease-in-out;
+  transition: background-color 0.24s ease-in-out; 
+}
 
 #container {
   opacity: 0;
