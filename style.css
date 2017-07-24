@@ -916,8 +916,8 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-size: 20px;
-  -webkit-transition: background-color 1s ease-in-out;
-  transition: background-color 1s ease-in-out; 
+  -webkit-transition: background-color 2s ease-in-out;
+  transition: background-color 2s ease-in-out;
 }
 
 #container {
