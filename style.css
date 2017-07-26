@@ -1069,10 +1069,8 @@ HEADER STYLES
 *********************/
 .logo {
     width: 20%;
-    position: fixed;
-    z-index: 2;
+    height: auto;
     padding: 4%;
-    white-space: nowrap;
 }
 /*********************
 NAVIGATION STYLES
@@ -1630,7 +1628,6 @@ hr {
     height: 0.8em;
     overflow: hidden;
     top: 50%;
-    text-transform: uppercase;
     -moz-transform: translateY(-50%);
     -ms-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
