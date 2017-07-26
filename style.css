@@ -1629,6 +1629,8 @@ hr {
     height: 0.8em;
     overflow: hidden;
     top: 50%;
+    text-align: center;
+    width: 100%;
  }
     #header-text #inner-header-text .text {
       margin-right: 0.8em; }
