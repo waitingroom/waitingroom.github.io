@@ -1079,7 +1079,8 @@ HEADER STYLES
   font-style: italic;
 }
 
-logo, issue {
+.logo,
+.issue {
   display: inline-block;
   vertical-align: middle;
 }
