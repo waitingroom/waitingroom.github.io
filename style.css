@@ -1620,16 +1620,10 @@ hr {
   height: 3em;
   overflow: hidden;
   background-color: #fdfdfd;
+  text-align: center;
 }
 
-  #banner{
-    position: absolute;
-    font-size: 1em;
-    line-height: 1em;
-    overflow: hidden;
-    text-align: center;
-    width: 100%;
- }
+
     #header-text #inner-header-text .text {
       margin-right: 0.8em; }
 
