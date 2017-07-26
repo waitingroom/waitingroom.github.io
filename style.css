@@ -1069,9 +1069,9 @@ HEADER STYLES
 *********************/
 .logo {
     width: 8%;
-    padding-top: 0.9%;
+    padding-top: 1.2%;
     padding-left: 1%;
-    margin-left: 2%;
+    margin-left: 5%;
 }
 /*********************
 NAVIGATION STYLES
@@ -1617,7 +1617,7 @@ hr {
   left: 0px;
   right: 0px;
   width: 100%;
-  height: 2.8em;
+  height: 3em;
   overflow: hidden;
   background-color: #e5b59e;
 }
