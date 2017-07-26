@@ -1629,12 +1629,10 @@ hr {
     height: 0.8em;
     overflow: hidden;
     top: 50%;
-    -moz-transform: translateY(-50%);
-    -ms-transform: translateY(-50%);
-    -webkit-transform: translateY(-50%);
-    transform: translateY(-50%); }
+ }
     #header-text #inner-header-text .text {
       margin-right: 0.8em; }
+
 
 .project .gallery {
   height: 15em;
