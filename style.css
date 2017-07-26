@@ -1992,7 +1992,6 @@ you can add resource intensive styles.
       .project .project-informations hr:first-child {
         display: block; }
       .project .project-informations .h2 {
-        padding-top: 0em;
         border-top: none; }
     .project .gallery {
       height: 90%; }
