@@ -1620,7 +1620,9 @@ hr {
   width: 100%;
   height: 2.3em;
   overflow: hidden;
-  border-bottom: 0.1em solid #000; }
+  border-bottom: 0.1em solid #000;
+  background-color: #fdfdfd
+}
 
   #header-text #inner-header-text {
     position: absolute;
