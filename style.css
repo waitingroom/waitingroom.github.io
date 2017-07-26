@@ -1622,13 +1622,11 @@ hr {
   background-color: #fdfdfd;
 }
 
-  #header-text #inner-header-text {
+  #banner{
     position: absolute;
     font-size: 1em;
     line-height: 1em;
-    height: 0.8em;
     overflow: hidden;
-    top: 50%;
     text-align: center;
     width: 100%;
  }
