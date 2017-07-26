@@ -1622,8 +1622,23 @@ hr {
   background-color: #fdfdfd;
 }
 
-#inner-header-text {
-    text-align: center;
+  #header-text #inner-header-text {
+    position: absolute;
+    font-size: 1em;
+    line-height: 1em;
+    height: 0.8em;
+    overflow: hidden;
+    top: 50%;
+    -moz-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%); }
+
+    #header-text #inner-header-text .text {
+      margin-right: 0.8em; }
+
+#issue {
+  text-align: center;
 }
 
 
