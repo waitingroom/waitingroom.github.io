@@ -1073,6 +1073,16 @@ HEADER STYLES
     padding-left: 1%;
     margin-left: 5%;
 }
+
+.issue {
+  font-family: times;
+  font-style: italic;
+}
+
+logo, issue {
+  display: inline-block;
+  vertical-align: middle;
+}
 /*********************
 NAVIGATION STYLES
 *********************/
