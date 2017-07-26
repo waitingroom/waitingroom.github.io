@@ -1633,14 +1633,8 @@ hr {
     -ms-transform: translateY(-50%);
     -webkit-transform: translateY(-50%);
     transform: translateY(-50%); }
-
     #header-text #inner-header-text .text {
       margin-right: 0.8em; }
-
-#issue {
-  text-align: center;
-}
-
 
 .project .gallery {
   height: 15em;
