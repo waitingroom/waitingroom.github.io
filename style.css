@@ -1077,8 +1077,9 @@ HEADER STYLES
 .issue {
   font-family: times;
   font-style: italic;
-  margin-left: 15%;
-  font-size: 3.6vw;
+  margin-left: 75%;
+  font-size: 1.6vw;
+
 }
 
 .logo,
