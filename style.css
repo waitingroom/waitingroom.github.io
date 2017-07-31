@@ -1083,7 +1083,7 @@ HEADER STYLES
 }
 
 .issue {
-  font-family: 'Inconsolata', monospace;
+  font-family: times;
   font-style: italic;
   margin-left: 75%;
   font-size: 1.6vw;
