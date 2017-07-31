@@ -32,7 +32,7 @@ body {
 
 .col-left {
   width: 50%;
-  font-family: 'Cormorant Garamond', serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   float: left;
   padding: 4%;
 }
@@ -1083,7 +1083,7 @@ HEADER STYLES
 }
 
 .issue {
-  font-family: times;
+  font-family: 'Inconsolata', monospace;
   font-style: italic;
   margin-left: 75%;
   font-size: 1.6vw;
