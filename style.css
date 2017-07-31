@@ -1,9 +1,10 @@
-
 @font-face {
-  font-family: 'canet';
-  src: url("../fonts/canet.woff") format("woff");
-  font-weight: normal;
-  font-style: normal; }
+font-family: canet;
+src: local('canet'), url("../waitingroom/fonts/canet.woff") format("woff");
+font-weight: normal;
+}
+
+
 /* normalize.css 2012-07-07T09:50 UTC - http://github.com/necolas/normalize.css */
 
 
