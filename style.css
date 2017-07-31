@@ -1,6 +1,6 @@
 @font-face {
 font-family: canet;
-src: local('canet'), url("../waitingroom/fonts/canet.woff") format("woff");
+src: local('canet'), url("./waitingroom/fonts/canet.woff") format("woff");
 font-weight: normal;
 }
 
