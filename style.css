@@ -1,5 +1,8 @@
 
 /* normalize.css 2012-07-07T09:50 UTC - http://github.com/necolas/normalize.css */
+@font-face{ font-family: "canetl";
+            src: url("http://www.querida.si/wp-content/uploads/CANETL.woff") format("woff");
+             }
 
 
 /* ==========================================================================
@@ -32,15 +35,15 @@ body {
 
 .col-left {
   width: 50%;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "canetl";
   float: left;
-  padding: 5%;
+  padding: 4%;
 }
 .col-right {
   width: 50%;
   display: inline-block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding: 5%;
+  padding: 4%;
 }
 /* ==========================================================================
    Links
