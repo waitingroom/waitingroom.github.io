@@ -34,13 +34,12 @@ body {
   width: 50%;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   float: left;
-  padding: 4%;
 }
 .col-right {
   width: 50%;
   display: inline-block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding: 4%;
+  padding-left: 5%;
 }
 /* ==========================================================================
    Links
