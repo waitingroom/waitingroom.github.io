@@ -39,13 +39,13 @@ body {
   width: 30%;
   display: inline-block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding-left: 2%;
+  margin-left: 5%;
 }
 .col-right-info {
   width: 17%;
   display: inline-block;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding-left: 1%;
+  margin-left: 1%;
 }
 /* ==========================================================================
    Links
