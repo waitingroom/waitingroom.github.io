@@ -41,6 +41,13 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin-left: 5%;
 }
+.col-right img:last-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    display: none;
+}
+
 .col-right-info {
   width: 12%;
   display: inline-block;
