@@ -54,7 +54,7 @@ body {
 #infor{
   position: fixed;
   width: 50%;
-  margin-left: 25%;
+  margin-left: 50%;
   z-index: 99999999;
   opacity: 0.5;
 }
