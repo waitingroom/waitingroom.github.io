@@ -50,6 +50,15 @@ body {
   margin-right: 1%;
   float: right;
 }
+
+.col-right:hover .overlay {
+  position:absolute;
+  width: 30%;
+  z-index: 100;
+  background: transparent url('overlay_image.png') no-repeat;
+  cursor: pointer;
+
+}
 /* ==========================================================================
    Links
    ========================================================================== */
