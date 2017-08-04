@@ -55,7 +55,7 @@ body {
   width: 50%;
   margin-left: 25%;
   margin-top: 25%;
-  display: none;
+  z-index: 9999999;
 }
 
 
