@@ -21,9 +21,14 @@
 <script type="text/javascript" src="/jquery.js"></script>
 <script type="text/javascript" src="/jquery-migrate.min.js"></script>
 <link href="/favicon.ico" rel="icon" type="image/x-icon" />
-
+<script>
+$(document).ready(function() {
+    $(".intro").delay(2000).fadeout(500);
+});
+</script>
 
 <body>
+<a href="/"><img src="/intro.svg" class="intro" /></a>
 	<div id="container" class="elastic-font">
 		<div id="header-text">
 				<a href="/"><img src="/logo.svg" class="logo" /></a>

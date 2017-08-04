@@ -51,6 +51,13 @@ body {
   float: right;
 }
 
+.intro {
+  width: 50%;
+  margin-left: 25%;
+  margin-top: 25%;
+  display: none;
+}
+
 
 /* ==========================================================================
    Links
