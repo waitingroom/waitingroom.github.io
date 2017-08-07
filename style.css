@@ -52,6 +52,9 @@ body {
 }
 
 #infor{
+  top: 0;
+  height:100vh;
+  min-height:100%;
   position: fixed;
   width: 100%;
   z-index: 99999999;
