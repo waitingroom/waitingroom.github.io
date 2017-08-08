@@ -1107,11 +1107,10 @@ HEADER STYLES
 }
 
 .issue {
-  font-family: times;
-  font-style: italic;
-  margin-left: 83%;
-  font-size: 1.6vw;
-
+  margin-left: 80%;
+  font-size: 1.2vw;
+  letter-spacing: 2px;
+  text-transform: uppercase;
 }
 
 .logo,
