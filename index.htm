@@ -29,11 +29,12 @@
 <script>
 	function openNav() {
 	    document.getElementById("mySidenav").style.width = "40%";
-
+			document.getElementByClass("body").style.overflow = "hidden";
 	}
 
 	function closeNav() {
 	    document.getElementById("mySidenav").style.width = "0";
+			document.getElementByClass("body").style.overflow = "scroll";
 
 	}
 </script>
