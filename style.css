@@ -79,8 +79,7 @@ body {
 
 .sidenav .closebtn {
     position: absolute;
-    top: 0;
-    right: 25px;
+    top: 7%;
     margin-left: 50px;
     color: white;
     cursor: pointer;
