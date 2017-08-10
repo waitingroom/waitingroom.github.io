@@ -23,18 +23,30 @@
 <link href="/favicon.ico" rel="icon" type="image/x-icon" />
 <script type='text/javascript'>
 	$(function(){
-		$("#infor").delay(3000).fadeOut("slow");
+		$("#infor").delay(2000).fadeOut("slow");
 	});
+</script>
+<script>
+function openNav() {
+    document.getElementById("mySidenav").style.width = "40%";
+}
+
+function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+}
 </script>
 </head>
 <body>
+	<div id="mySidenav" class="sidenav">
+	  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">close</a>
+	</div>
 	<div id="container" class="elastic-font">
 		<div id='infor'>
 			<img src="/intro.svg" style="height: 100%;"></img>
 		</div>
 		<div id="header-text">
 				<a href="/"><img src="/logo.svg" class="logo" /></a>
-					<div class="issue"><a href="/about">issue</a></div>
+					<div class="issue"><span style="cursor:pointer" onclick="openNav()"><a href="/about">issue</a></span></div>
 				</div
 			</div>
 		</div>
