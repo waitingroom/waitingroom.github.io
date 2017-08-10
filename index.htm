@@ -29,6 +29,7 @@
 <script>
 	function openNav() {
 	    document.getElementById("mySidenav").style.width = "40%";
+
 	}
 
 	function closeNav() {
@@ -37,18 +38,12 @@
 	}
 </script>
 <script>
-	var offsetY = window.pageYOffset;
+	var up = $(document).scrollTop();
 	function openNav() {
-		document.getElementById("content").style.position = "fixed";
-		document.getElementById("content").style.top = "-offsetY" + 'px';
-	}
-	function closeNav() {
-		document.getElementById("content").style.position = "static";
-		document.getElementById("content").style.top = "-offsetY" + 'px';
-	}
+	    document.getElementById("content").style.top = up;
+
 	}
 </script>
-
 </head>
 <body>
 	<div id="mySidenav" class="sidenav">
