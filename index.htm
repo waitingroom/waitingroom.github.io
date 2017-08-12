@@ -29,6 +29,8 @@
 <script>
 	function openNav() {
 	    document.getElementById("mySidenav").style.width = "40%";
+			document.getElementById("main").style.overflow = "hidden";
+
 	}
 
 	function closeNav() {
@@ -39,6 +41,7 @@
 </script>
 </head>
 <body>
+<div id="main">
 	<div id="mySidenav" class="sidenav">
 	  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">close</a>
 	</div>
@@ -120,6 +123,7 @@
 
 
 			</div>
+</div>
 
 <script type="text/javascript" src="/scripts.js"></script>
 <script type="text/javascript" src="/wp-embed.min.js"></script>
