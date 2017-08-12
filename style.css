@@ -30,26 +30,6 @@ body {
      font-style: italic;
  }
 
-.col-left {
-  width: 50%;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  float: left;
-}
-.col-right {
-  width: 30%;
-  display: inline-block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-left: 5%;
-}
-
-
-.col-right-info {
-  width: 12%;
-  display: inline-block;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-right: 1%;
-  float: right;
-}
 
 /* display opening issue*/
 
@@ -1123,7 +1103,7 @@ HEADER STYLES
 *********************/
 .logo {
     width: 9%;
-    padding-top: 0.6%;
+    padding-top: 3%;
     padding-left: 1%;
     margin-left: 2%;
 }
@@ -1684,7 +1664,6 @@ hr {
   left: 0px;
   right: 0px;
   width: 100%;
-  height: 3em;
   overflow: hidden;
   background: -moz-linear-gradient(top, rgba(255,255,255,1) 0%, rgba(255,255,255,0) 100%); /* FF3.6-15 */
   background: -webkit-linear-gradient(top, rgba(255,255,255,1) 0%,rgba(255,255,255,0) 100%); /* Chrome10-25,Safari5.1-6 */
