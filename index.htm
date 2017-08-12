@@ -29,7 +29,8 @@
 <script>
 	function openNav() {
 	    document.getElementById("mySidenav").style.width = "40%";
-			document.getElementsByClassName("body").style.overflow = "hidden"
+			var x = document.getElementsByClassName("body");
+			x[0].style.overflow = "hidden";
 
 
 	}
