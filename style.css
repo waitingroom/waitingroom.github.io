@@ -59,11 +59,11 @@ body {
 
 .sidenav .closebtn {
     position: absolute;
-    top: 7%;
-    margin-left: 50px;
+    top: 9.5%;
+    margin-left: 4%;
     color: black;
     cursor: pointer;
-    font-size: 1.2vw;
+    font-size: 1.5vw;
     letter-spacing: 2px;
     text-transform: uppercase;
 }
