@@ -1115,7 +1115,16 @@ HEADER STYLES
   text-transform: uppercase;
 }
 
+.sign {
+  margin-left: 35%;
+  font-size: 1.2vw;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+
 .logo,
+.sign,
 .issue {
   display: inline-block;
   vertical-align: middle;
