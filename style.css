@@ -50,7 +50,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #f4efe8;
+    background-color: #f3f7f3;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
@@ -1109,6 +1109,7 @@ HEADER STYLES
 }
 
 .issue {
+  margin-top: 2.5%;
   margin-left: 80%;
   font-size: 1.2vw;
   letter-spacing: 2px;
