@@ -70,8 +70,6 @@ body {
 }
 
 #issue-inner {
-  transition: 3.4s;
-  visibility: hidden;
 }
 /* ==========================================================================
    Links
