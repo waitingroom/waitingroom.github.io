@@ -30,14 +30,14 @@
 	function openNav() {
 	    document.getElementById("mySidenav").style.width = "40%";
 			$("body").css("overflow", "hidden");
-			$('#issue-inner').fadeIn('slow');
+			$('#issue-inner').fadeIn('3000');
 
 	}
 
 	function closeNav() {
 	    document.getElementById("mySidenav").style.width = "0";
 			$("body").css("overflow", "scroll");
-			$('#issue-inner').css("visibility","hidden");
+			$('#issue-inner').fadeOut('3000');
 
 	}
 </script>
