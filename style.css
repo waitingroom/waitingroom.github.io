@@ -53,7 +53,7 @@ body {
     background-color: #f3f7f3;
     overflow-x: hidden;
     transition: 0.5s;
-    padding-top: 2%;
+    padding-top: 3%;
     z-index: 2000;
 }
 
@@ -1760,7 +1760,7 @@ p, h1, h2, h3, h4 {
     margin-top: 0px; }
 
 .project .project-informations .h2 {
-  padding-top: 5%;
+  padding-top: 1em;
   border-top: 0.1em #000 solid; }
 .project .project-informations hr:first-child {
   display: none;
