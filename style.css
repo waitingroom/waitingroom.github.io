@@ -45,7 +45,9 @@ body {
  .hug:hover .ontop {
    opacity: 1;
  }
-
+.hug {
+  position: relative;
+}
  .texto {
   color: white;
   font-size: 10vw;
