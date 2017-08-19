@@ -30,33 +30,7 @@ body {
      font-style: italic;
  }
 
- .ontop {
-   position: absolute;
-   top: 0;
-   bottom: 0;
-   left: 0;
-   right: 0;
-   height: 100%;
-   width: 100%;
-   opacity: 0;
-   transition: .5s ease;
- }
-
- .hug:hover .ontop {
-   opacity: 1;
- }
-.hug {
-  position: relative;
-}
- .texto {
-  color: white;
-  font-size: 10vw;
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
- }
+ 
 
 /* display opening issue*/
 
