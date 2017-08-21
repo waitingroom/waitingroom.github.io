@@ -2001,7 +2001,9 @@ you can add resource intensive styles.
 
   /* end .footer-links */
   .project {
-    position: relative; }
+    position: relative;
+    margin-bottom: 5%;
+  }
     .project .project-images {
       position: absolute;
       top: 0px;
