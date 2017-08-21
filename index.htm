@@ -41,13 +41,22 @@
 
 	}
 </script>
+<script>
+$('.hug').mouseover(function() {
+  $('.text-1').css("visibility","visible");
+});
+
+$('.hug').mouseout(function() {
+  $('.text-1').css("visibility","hidden");
+});
+</script>
 </head>
 <body>
 	<div id="mySidenav" class="sidenav">
 	  	<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">✕</a>
 			<div id="issue-inner">
 			<p style="letter-spacing:6px;text-align:center;width:75%;margin-left:12.5%;text-transform:uppercase;">
-				information<br>matter
+				criticaln<br>reading
 			</p>
 			<img src="http://www.penccil.com/files/U_1431_33592503834_Poster_Cool.gif" style="margin-top:5%;margin-bottom:5%;width:75%;margin-left:12.5%;" />
 			<p style="letter-spacing:1px;font-size:2vw;margin-bottom:5%;width:75%;margin-left:12.5%;">
@@ -87,11 +96,14 @@
 	                                                                                <div id="fashion" class="section project with-gallery slide-in" data-header="fashion">
 	                                            <div class="project-images" style="height: 756.766px;">
 	                                                <div class="gallery rsHor"><div class="rsOverflow"><div class="rsContainer">
-																										<div style="left: 0px;" class="rsSlide  rsActiveSlide"><img src="/Fashion_Show.jpg" class="portrait active rsImg rsMainSlideImage" style="visibility: visible; opacity: 1; transition: opacity 400ms ease-in-out; width:70%;; margin-left: 15%; margin-top: 39.86px;">
-																										<p style="font-size:1vw;letter-spacing:2px;padding-top:4%;">
+																										<div class="hug">
+																										<div style="left: 0px;" class="rsSlide  rsActiveSlide"><img src="/Fashion_Show.jpg" class="portrait active rsImg rsMainSlideImage" style="visibility: visible; opacity: 1; transition: opacity 400ms ease-in-out; width:70%;; margin-left: 15%; margin-top: 39.86px;"></div>
+																										</div>
+																										<div class="text-1">
+
 																											by John Doe
 
-																										</p>
+																										</div>
 																										</div>
 																									</div>
 																								</div>
