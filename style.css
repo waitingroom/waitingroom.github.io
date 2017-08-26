@@ -40,10 +40,10 @@ body {
   max-height:100vw;
   position: fixed;
   z-index: 99999999;
-  opacity: 0.7;
+  opacity: 1;
   padding: 10%;
   margin-left: 21%;
-  transition: 3s;
+  transition: 3.5s;
 }
 
 .sidenav {
