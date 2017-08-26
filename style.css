@@ -1113,12 +1113,9 @@ HEADER STYLES
     padding-top: 3%;
     padding-left: 1%;
     margin-left: 2%;
-    background-image: url('/logo.svg');
 }
 
-.logo:hover {
-  background-image: url('/logo.svg');
-}
+
 
 .issue {
   margin-top: 2.5%;
