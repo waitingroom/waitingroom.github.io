@@ -39,7 +39,7 @@ body {
   height: 100%;
   max-height:100vw;
   position: fixed;
-  z-index: 99999999;
+  z-index: 15000;
   opacity: 1;
   padding: 10%;
   margin-left: 21%;
@@ -52,7 +52,7 @@ body {
     position: fixed;
     top: 0;
     right: 0;
-    background-color: #f3f7f3;
+    background-color: black;
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 3%;
@@ -64,7 +64,7 @@ body {
     position: absolute;
     top: 11.8%;
     margin-left: 4.9%;
-    color: black;
+    color: white;
     cursor: pointer;
     font-size: 1.5vw;
     letter-spacing: 2px;
@@ -73,6 +73,7 @@ body {
 
 #issue-inner {
   display: none;
+  color: white;
 }
 /* ==========================================================================
    Links
