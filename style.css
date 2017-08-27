@@ -46,25 +46,6 @@ body {
   transition: 5s;
 }
 
-@media only screen and (max-width: 1500px) {
-
-  #infor{
-    margin-left: 17%;
-
-  }
-@media only screen and (min-height: 670px) {
-
-    #infor{
-      margin-left: 12%;
-
-}
-@media only screen and (max-width: 850px) {
-
-  #infor{
-    margin-left: 6%;
-
-  }
-
 .sidenav {
     height: 100%;
     width: 0;
