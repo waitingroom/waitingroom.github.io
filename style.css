@@ -581,6 +581,7 @@ them however you see fit.
   #infor {
     margin-left: 5%;
   }
+}
 @media (min-width: 1030px) {
   .d-all {
     float: left;
