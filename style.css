@@ -53,6 +53,9 @@ body {
   font-size: 2.2vw;
 }
 
+.col-1 {
+  width: 40%;
+}
 .sidenav {
     height: 100%;
     width: 0;
