@@ -56,6 +56,12 @@ body {
 .col-1 {
   width: 40%;
 }
+
+.col-2 {
+  width: 20%;
+  margin-left: 5.7%;
+}
+
 .sidenav {
     height: 100%;
     width: 0;
