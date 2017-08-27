@@ -63,6 +63,11 @@ body {
   margin-left: 11.9%;
   float: left;
 }
+.col-3 {
+  width: 20%;
+  float:right;
+  margin-left: 11.9%;
+}
 
 .sidenav {
     height: 100%;
