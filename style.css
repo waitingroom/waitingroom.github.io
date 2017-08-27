@@ -579,7 +579,7 @@ them however you see fit.
 */
 @media (max-width: 767px) {
   #infor {
-    margin-left: 5%;
+    margin-left: 0% !important;
   }
 }
 @media (min-width: 1030px) {
