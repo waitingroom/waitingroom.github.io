@@ -64,9 +64,9 @@ body {
   float: left;
 }
 .col-3 {
-  width: 20%;
-  float:right;
-  margin-left: 11.9%;
+  width: 5%;
+  float:left;
+  margin-left: 20%;
 }
 
 .sidenav {
