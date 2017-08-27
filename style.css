@@ -46,8 +46,9 @@ body {
   transition: 5s;
 }
 @media (max-width: 1500px) {
+
   #infor {
-    margin-left: 17%;
+    margin-left: 17% !important;
   }
 
 
