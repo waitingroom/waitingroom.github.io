@@ -46,9 +46,7 @@ body {
   transition: 5s;
 }
 
-.texto-footer {
-  width: 70%;
-  margin-left: 13%;
+.lead {
   margin-top: 5%;
 }
 
