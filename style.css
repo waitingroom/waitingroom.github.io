@@ -47,7 +47,9 @@ body {
 }
 
 .lead {
-  margin-top: 5%;
+  padding-left: 5.7%;
+  padding-right: 5.7%;
+  margin-top: 0.5%;
   font-size: 2.2vw;
 }
 
