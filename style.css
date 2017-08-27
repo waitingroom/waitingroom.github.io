@@ -55,11 +55,13 @@ body {
 
 .col-1 {
   width: 40%;
+  float: left;
 }
 
 .col-2 {
   width: 20%;
   margin-left: 5.7%;
+  float: left;
 }
 
 .sidenav {
