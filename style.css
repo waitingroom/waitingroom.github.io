@@ -45,6 +45,14 @@ body {
   margin-left: 21%;
   transition: 5s;
 }
+@media (max-width: 1500px) {
+  #infor {
+    margin-left: 17%;
+  }
+
+
+}
+
 
 .sidenav {
     height: 100%;
