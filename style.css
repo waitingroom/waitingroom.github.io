@@ -45,14 +45,7 @@ body {
   margin-left: 21%;
   transition: 5s;
 }
-@media (max-width: 1500px) {
 
-  #infor {
-    margin-left: 17% !important;
-  }
-
-
-}
 
 
 .sidenav {
@@ -585,89 +578,9 @@ There are four types, but you can add or customize
 them however you see fit.
 */
 @media (max-width: 767px) {
-  .m-all {
-    float: left;
-    padding-right: 0.75em;
-    width: 100%;
-    padding-right: 0; }
-
-  .m-1of2 {
-    float: left;
-    padding-right: 0.75em;
-    width: 50%; }
-
-  .m-1of3 {
-    float: left;
-    padding-right: 0.75em;
-    width: 33.33%; }
-
-  .m-2of3 {
-    float: left;
-    padding-right: 0.75em;
-    width: 66.66%; }
-
-  .m-1of4 {
-    float: left;
-    padding-right: 0.75em;
-    width: 25%; }
-
-  .m-3of4 {
-    float: left;
-    padding-right: 0.75em;
-    width: 75%; } }
-/* Portrait tablet to landscape */
-@media (min-width: 768px) and (max-width: 1029px) {
-  .t-all {
-    float: left;
-    padding-right: 0.75em;
-    width: 100%;
-    padding-right: 0; }
-
-  .t-1of2 {
-    float: left;
-    padding-right: 0.75em;
-    width: 50%; }
-
-  .t-1of3 {
-    float: left;
-    padding-right: 0.75em;
-    width: 33.33%; }
-
-  .t-2of3 {
-    float: left;
-    padding-right: 0.75em;
-    width: 66.66%; }
-
-  .t-1of4 {
-    float: left;
-    padding-right: 0.75em;
-    width: 25%; }
-
-  .t-3of4 {
-    float: left;
-    padding-right: 0.75em;
-    width: 75%; }
-
-  .t-1of5 {
-    float: left;
-    padding-right: 0.75em;
-    width: 20%; }
-
-  .t-2of5 {
-    float: left;
-    padding-right: 0.75em;
-    width: 40%; }
-
-  .t-3of5 {
-    float: left;
-    padding-right: 0.75em;
-    width: 60%; }
-
-  .t-4of5 {
-    float: left;
-    padding-right: 0.75em;
-    width: 80%; } }
-/* Landscape to small desktop */
+  #infor {
+    margin-left: 5%;
+  }
 @media (min-width: 1030px) {
   .d-all {
     float: left;
