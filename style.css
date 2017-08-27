@@ -46,7 +46,11 @@ body {
   transition: 5s;
 }
 
-
+.texto-footer {
+  width: 70%;
+  margin-left: 13%;
+  margin-top: 5%;
+}
 
 .sidenav {
     height: 100%;
