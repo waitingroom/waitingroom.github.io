@@ -102,9 +102,10 @@ body {
 .paper {
   width: 30%;
   position: fixed;
-  margin-top: 20%;
-  margin-left: 30%;
-  z-index: 2800;
+  margin-top: 5%;
+  margin-left: 35%;
+  top: 0;
+
 }
 /* ==========================================================================
    Links
