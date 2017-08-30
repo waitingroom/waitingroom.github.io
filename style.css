@@ -123,14 +123,13 @@ body {
 .paper-text {
   font-size: 1.3vw;
   letter-spacing: 3px;
-  margin-top: -9%;
+  margin-top: -10%;
   margin-left: 50%;
 }
 
 .paper-char {
   font-size: 1.3vw;
   letter-spacing: 3px;
-  margin-top: 25%;
   width: 5%;
   padding-left: 14%;
 }
