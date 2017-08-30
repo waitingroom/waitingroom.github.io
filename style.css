@@ -121,8 +121,10 @@ body {
 
 }
 .paper-text {
-  font-size: 1vw;
+  font-size: 1.3vw;
   letter-spacing: 3px;
+  margin-top: 5%;
+  margin-left: 40%;
 }
 /* ==========================================================================
    Links
