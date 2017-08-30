@@ -34,7 +34,21 @@
 	     }
 	 });
  </script>
+ <script>
+ 	function openNav() {
+ 	    document.getElementById("mySidenav").style.width = "40%";
+ 			$("body").css("overflow", "hidden");
+ 			$('#issue-inner').fadeIn( 3000 );
 
+ 	}
+
+ 	function closeNav() {
+ 	    document.getElementById("mySidenav").style.width = "0";
+ 			$("body").css("overflow", "scroll");
+ 			$('#issue-inner').fadeOut( 50 );
+
+ 	}
+ </script>
 
 </head>
 <body>
