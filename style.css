@@ -124,7 +124,7 @@ body {
   font-size: 1.3vw;
   letter-spacing: 3px;
   margin-top: -9%;
-  margin-left: 40%;
+  margin-left: 50%;
 }
 
 .paper-char {
@@ -132,6 +132,7 @@ body {
   letter-spacing: 3px;
   margin-top: 25%;
   width: 5%;
+  padding-left: 14%;
 }
 /* ==========================================================================
    Links
