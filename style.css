@@ -120,20 +120,9 @@ body {
 html, body, #paper{
   width:100%;
   height:100%;
-}
-.paper-text {
-  font-size: 1.3vw;
-  letter-spacing: 3px;
-  margin-top: -10%;
-  margin-left: 50%;
+  margin-top: -12%;
 }
 
-.paper-char {
-  font-size: 1.3vw;
-  letter-spacing: 3px;
-  width: 5%;
-  padding-left: 14%;
-}
 /* ==========================================================================
    Links
    ========================================================================== */
