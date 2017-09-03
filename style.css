@@ -112,13 +112,9 @@ body {
   color: white;
 }
 
-.paper {
-  width: 30%;
-  position: fixed;
-  margin-top: 10%;
-  margin-left: 35%;
-  top: 0;
-
+#paper {
+  background:url('http://cdn.ismorbo.com/wp-content/uploads/2017/08/marc-jacobs-05.jpg') center center;
+  background-size:cover;
 }
 .paper-text {
   font-size: 1.3vw;
