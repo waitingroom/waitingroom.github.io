@@ -116,6 +116,11 @@ body {
   background:url('http://cdn.ismorbo.com/wp-content/uploads/2017/08/marc-jacobs-05.jpg') center center;
   background-size:cover;
 }
+
+html, body, #paper{
+  width:100%;
+  height:100%;
+}
 .paper-text {
   font-size: 1.3vw;
   letter-spacing: 3px;
