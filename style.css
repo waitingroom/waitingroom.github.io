@@ -117,9 +117,8 @@ body {
   background-size:cover;
 }
 
-#paper:hover {
-  margin-top: -14;
-  transition: 3s;
+.paper-intro {
+  
 }
 
 html, body, #paper{
