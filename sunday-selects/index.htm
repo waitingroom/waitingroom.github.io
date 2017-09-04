@@ -22,6 +22,7 @@
 <script type="text/javascript" src="/jquery-migrate.min.js"></script>
 <link href="/favicon.ico" rel="icon" type="image/x-icon" />
 
+<!--
 <script>
 	$(window).scroll(function() {
 
@@ -34,7 +35,17 @@
 	      $('#paper').fadeIn();
 	     }
 	 });
- </script>
+ </script>-->
+
+ <script>
+ 	$(window).scroll(function() {
+
+ 	    if ($(this).scrollTop()>430)
+ 	     {
+ 	        $('#paper').fadeOut();
+ 	     }
+ 	 });
+  </script>
 
 
  <script>
@@ -95,7 +106,7 @@
 	          <div id="projects" class="projects with-sub-sections">
 		          <div class="inner wrap-content"></div>
 	                                    <div class="inner">
-																				<p style="font-size:5vw;">
+																				<p style="font-size:4vw;">
 
 
 																					Études represents a global experience of visual culture.
