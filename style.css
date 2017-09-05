@@ -69,7 +69,6 @@ body {
   opacity: 1;
   padding: 10%;
   z-index: 2800;
-  transition: 0.3s;
 }
 .lead {
   padding-left: 5.7%;
