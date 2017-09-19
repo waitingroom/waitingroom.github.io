@@ -65,17 +65,20 @@ body {
 .col-1 {
   width: 40%;
   float: left;
+  font-size: 2.4vw;
 }
 
 .col-2 {
   width: 20%;
   margin-left: 12.5%;
   float: left;
+  font-size: 2.4vw;
 }
 .col-3 {
   width: 5%;
   float:left;
   margin-left: 20%;
+  font-size: 2.4vw;
 }
 
 .sidenav {
