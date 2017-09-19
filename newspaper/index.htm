@@ -21,6 +21,13 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 <script type="text/javascript" src="/jquery-migrate.min.js"></script>
 <link href="/favicon.ico" rel="icon" type="image/x-icon" />
+<script type='text/javascript'>
+	$(function(){
+		$("#infor").delay(900).fadeIn("slow");
+		$("#infor").css("opacity", "0.5");
+
+	});
+</script>
 
 
 <script>
@@ -75,6 +82,9 @@ $(window).scroll(function(){
 
 
 	<div id="container" class="elastic-font">
+		<div id='infor'>
+			<img src="/intro.svg" style="width:100%;height: 100%;"></img>
+		</div>
 
 		<div id="header-text">
 				<a href="/"><img src="/logo.svg" class="logo" /></a>
