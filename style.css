@@ -60,7 +60,11 @@ body {
 }
 
 
-
+.col-1 {
+  width: 20%;
+  float: left;
+  font-size: 1.4vw;
+}
 
 .fot-1 {
   width: 40%;
