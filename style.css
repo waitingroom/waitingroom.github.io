@@ -87,6 +87,10 @@ body {
   background-color: white;
   z-index: 1500;
 }
+.text-wrap {
+  width: 100%;
+  margin-bottom: 10%;
+}
 
 .sidenav {
     height: 100%;
