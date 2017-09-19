@@ -103,6 +103,7 @@ body {
 
 .news {
   height: 100vw;
+  margin-top: 6%;
 }
 
 ::selection {
