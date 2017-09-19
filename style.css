@@ -96,6 +96,10 @@ body {
   height: 100%;
 }
 
+.news {
+  height: 100vw;
+}
+
 
 
 .sidenav {
