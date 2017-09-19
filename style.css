@@ -102,6 +102,15 @@ body {
 
 .news {
   height: 60vw;
+  margin-top: 20%;
+}
+
+.title {
+  width: 100%;
+  font-size: 5vw;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 
