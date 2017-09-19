@@ -66,6 +66,8 @@ body {
   font-size: 1.4vw;
 }
 
+
+
 .fot-1 {
   width: 40%;
   float: left;
@@ -92,9 +94,7 @@ body {
   margin-bottom: 10%;
 }
 
-.fot-wrap {
-  width: 100%;
-}
+
 
 .sidenav {
     height: 100%;
