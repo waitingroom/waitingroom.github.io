@@ -103,10 +103,10 @@ body {
     text-transform: uppercase;
 }
 
-
-
-
-
+#issue-inner {
+  display: none;
+  color: white;
+}
 
 
 /* ==========================================================================
