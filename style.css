@@ -59,24 +59,8 @@ body {
   transition: 5s;
 }
 
-#week {
-  top: 0;
-  height: 100%;
-  width: 50%;
-  max-height:100vw;
-  position: fixed;
-  z-index: 1500;
-  opacity: 1;
-  padding: 15%;
-  z-index: 2800;
-  transition: 0.2s;
-}
-.lead {
-  padding-left: 5.7%;
-  padding-right: 5.7%;
-  margin-top: 0.5%;
-  font-size: 2.2vw;
-}
+
+
 
 .col-1 {
   width: 40%;
@@ -119,27 +103,11 @@ body {
     text-transform: uppercase;
 }
 
-#issue-inner {
-  display: none;
-  color: white;
-}
 
-#paper {
-  background:url('https://cdn.shopify.com/s/files/1/0343/2097/t/5/assets/press-02.jpg?1483104745259857828') center center;
-  background-size:cover;
-  width: 50%;
-  position: fixed;
 
-}
 
-.paper-intro {
 
-}
 
-html, body, #paper{
-  height:112%;
-  margin-top: -8%;
-}
 
 /* ==========================================================================
    Links
