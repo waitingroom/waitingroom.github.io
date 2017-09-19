@@ -105,10 +105,10 @@ body {
 }
 
 ::selection {
-  background: #ffb7b7; /* WebKit/Blink Browsers */
+  background: #feeff5; /* WebKit/Blink Browsers */
 }
 ::-moz-selection {
-  background: #ffb7b7; /* Gecko Browsers */
+  background: #feeff5; /* Gecko Browsers */
 }
 
 
