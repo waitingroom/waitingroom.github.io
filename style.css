@@ -92,6 +92,10 @@ body {
   margin-bottom: 10%;
 }
 
+.fot-wrap {
+  width: 100%;
+}
+
 .sidenav {
     height: 100%;
     width: 0;
