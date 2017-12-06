@@ -55,7 +55,7 @@ body {
   position: fixed;
   z-index: 1500;
   opacity: 1;
-  padding: 18%;
+  padding: 16%;
   transition: 5s;
   pointer-events: none;
 }
