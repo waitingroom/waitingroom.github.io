@@ -48,9 +48,10 @@ body {
 /* display opening issue*/
 .divisor {
   height: 1px;
-  width: 100%;
-  padding-top: 5%;
-  padding-bottom: 5%;
+width: 100%;
+margin-top: 15%;
+/* margin-bottom: 5%; */
+background-color: #fddfeb;
 }
 
 #infor{
