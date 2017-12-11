@@ -1779,7 +1779,7 @@ p, h1, h2, h3, h4 {
 
 .project .project-informations .h2 {
   padding-top: 5%;
-  border-top: 0.1em #000 solid; }
+   }
 .project .project-informations hr:first-child {
   display: none;
   padding-top: 0.8em;
