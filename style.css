@@ -658,7 +658,21 @@ There are four types, but you can add or customize
 them however you see fit.
 */
 @media (max-width: 767px) {
-}
+  .logo {
+      width: 15%;
+      padding-top: 3%;
+      padding-left: 1%;
+      margin-left: 2%;
+  }
+  .issue {
+    margin-top: 2.5%;
+    margin-left: 65%;
+    font-size: 3.2vw;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    }
+
+
 @media (min-width: 1030px) {
   .d-all {
     float: left;
@@ -1766,7 +1780,7 @@ p, h1, h2, h3, h4 {
 
 .project .project-informations .h2 {
   padding-top: 5%;
-  border-top: 0.1em #000 solid; }
+  }
 .project .project-informations hr:first-child {
   display: none;
   padding-top: 0.8em;
