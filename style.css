@@ -658,6 +658,19 @@ There are four types, but you can add or customize
 them however you see fit.
 */
 @media (max-width: 767px) {
+  .logo{
+    width: 16%;
+    padding-top: 3%;
+    padding-left: 3%;
+    margin-left: 2%;
+  }
+  .issue {
+    margin-top: 2.5%;
+    margin-left: 65%;
+    font-size: 3vw;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+  }
 }
 @media (min-width: 1030px) {
   .d-all {
