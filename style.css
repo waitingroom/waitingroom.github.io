@@ -658,6 +658,9 @@ There are four types, but you can add or customize
 them however you see fit.
 */
 @media (max-width: 767px) {
+  .project .gallery {
+    height: 12em;
+}
   .logo{
     width: 16% !important;
     padding-top: 3% !important;
