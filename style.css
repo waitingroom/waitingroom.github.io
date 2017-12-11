@@ -659,7 +659,7 @@ them however you see fit.
 */
 @media (max-width: 767px) {
   .project .gallery {
-    height: 12em;
+    height: 12em !important;
 }
   .logo{
     width: 16% !important;
