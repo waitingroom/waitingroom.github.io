@@ -121,6 +121,7 @@ background-color: #fddfeb;
 .news {
   height: 120vw;
   margin-top: 6%;
+  diplay:block;
 }
 
 ::selection {
