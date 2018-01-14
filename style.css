@@ -667,7 +667,7 @@ them however you see fit.
 @media (max-width: 767px) {
   .zero {padding-top: 10% !important; margin-top: 100% !important;}
   .two {padding-top: 25% !important;margin-top: 60% !important;}
-  .three {padding-top: 20% !important;height:95vw !important}
+  .three {padding-top: 20% !important;height:105vw !important}
   .four {padding-top: 20% !important; height:120vw !important}
   .news {
     display: block !important;
