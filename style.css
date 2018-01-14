@@ -665,8 +665,8 @@ There are four types, but you can add or customize
 them however you see fit.
 */
 @media (max-width: 767px) {
-  .zero {padding-top: 10% !important; margin-top: 100% !important;} 
-  .two {margin-top: 60% !important;}
+  .zero {padding-top: 10% !important; margin-top: 100% !important;}
+  .two {padding-top: 20% !important;margin-top: 60% !important;}
   .three {margin-top: 0% !important;height:95vw !important}
   .news {
     display: block !important;
