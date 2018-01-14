@@ -668,6 +668,7 @@ them however you see fit.
   .zero {padding-top: 10% !important; margin-top: 100% !important;}
   .two {padding-top: 20% !important;margin-top: 60% !important;}
   .three {margin-top: 0% !important;height:95vw !important}
+  .four {padding-top: 20% !important; height:95vw !important}
   .news {
     display: block !important;
     margin-top: 40% !important;
