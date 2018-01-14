@@ -666,7 +666,7 @@ them however you see fit.
 */
 @media (max-width: 767px) {
   .two {margin-top: 30% !important;}
-  .three {margin-top: 7% !important;}
+  .three {margin-top: 5% !important;}
   .news {
     display: block !important;
     margin-top: 40% !important;
